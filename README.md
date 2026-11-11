@@ -1,30 +1,31 @@
 <div align="center">
 
-<!-- 3050 HOLOGRAPHIC WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,25&height=230&section=header&text=KALKI%20NEURAL-OS%20v3050&fontSize=44&fontColor=00FFE0&animation=twinkling&fontAlignY=38" width="100%" />
+<!-- 3050 NEURAL HOLOGRAPHIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:050811,50:0a192f,100:00f0ff&height=220&section=header&text=ANKIT%20KUMAR&fontSize=52&fontColor=00f0ff&fontAlignY=42&stroke=00f0ff&strokeWidth=1" width="100%" alt="Year 3050 Neural Banner" />
 
-<!-- REAL-TIME CYBER TERMINAL TYPING ANIMATION -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00FF66&center=true&vcenter=true&width=750&lines=%3E+INITIALIZING+HUMANOID+AI+SERVER+FARM+CORE...;%3E+BIOMETRIC+SECURITY+CUSTODIAN%3A+ANKIT+KUMAR;%3E+CLEARANCE+LEVEL%3A+OMEGA-01+(ACCESS+GRANTED);%3E+SCANNING+DARK-WEB+TELEMETRY+%26+ZERO-DAY+VECTORS...;%3E+INFINITE-DRIVE+DENSITY%3A+330TB%2B+COMPRESSION+STABLE;%3E+ERASER-NET%3A+DIGITAL+FOOTPRINT+SCRUBBER+ONLINE;" alt="Typing SVG" />
+<!-- LIVE DYNAMIC TERMINAL TYPING STREAM -->
+<a href="mailto:editorofhow.in@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=39FF14&center=true&vcenter=true&width=780&lines=%5B%2B%5D+SYSTEM+IDENT%3A+EDITOR+OF+HOW+%2F%2F+YEAR+3050;%5B%2B%5D+ROLE%3A+AI+INFRASTRUCTURE+ARCHITECT;%5B%2B%5D+CLEARANCE%3A+BIOMETRIC+SECURITY+CUSTODIAN;%5B%2B%5D+DEPLOYED%3A+SANJEEVINI+KALKI+HUMANOID+AI+SERVER+FARM;%5B%2B%5D+MONITORING%3A+DARK-NET+INTEL+%26+ZERO-DAY+VECTORS;%5B%2B%5D+BENCHMARK%3A+330TB%2B+INFINITE+DRIVE+SAGABYTE+DENSITY;" alt="Dynamic Terminal Stream" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_OMEGA-00FFE0?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/SERVER_STATUS-100%25_UPTIME-00FF66?style=for-the-badge&logo=serverfault&logoColor=black" />
-  <img src="https://img.shields.io/badge/BASE-PATNA_SECTOR_IN-9D00FF?style=for-the-badge&logo=radar&logoColor=white" />
-  <a href="mailto:editorofhow.in@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_UPLINK-CONNECT-FF0055?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/ARCHITECT-AI_INFRASTRUCTURE-00F0FF?style=for-the-badge&logo=cpu&logoColor=black" />
+  <img src="https://img.shields.io/badge/CUSTODIAN-BIOMETRIC_GATEWAY-39FF14?style=for-the-badge&logo=fingerprint&logoColor=black" />
+  <img src="https://img.shields.io/badge/DEFENSE-OSINT_%2F_DARKWEB-BD00FF?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-PATNA_SECTOR-FF0055?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
 </div>
 
-## 🛰️ [SYS_LOG 3050]: OPERATOR IDENTITY MATRIX
+## 🛰️ 01 // OPERATOR SYSTEM LOGS [YEAR 3050]
 
-```yaml
-OPERATOR_ID  : ANKIT KUMAR (ALIAS: EDITOR OF HOW)
-STATION      : SANJEEVINI KALKI SYSTEMS [HUMANOID AI SERVER FARM]
-ROLE         : BIOMETRIC SECURITY CUSTODIAN // AI INFRASTRUCTURE ARCHITECT
-DEFENSE CODES: OSINT // DARKNET INTEL // GENERATIVE NEURAL PROMPTING
-OBJECTIVE    : SAFEGUARDING PHYSICAL-TO-DIGITAL AIRGAPPED AI INFRASTRUCTURES
-STATUS       : HUNTING ADVERSARIAL THREATS & BENCHMARKING BEYOND SAGABYTES
+```ini
+[IDENTIFICATION]
+OPERATOR_ID  = Ankit Kumar (Editor of How)
+BASE_STATION = Sanjeevini Kalki Systems [Humanoid AI Server Farm]
+CLEARANCE    = Biometric Security Custodian // Level-Omega
+STATUS       = Defending Physical-to-Digital Air-Gapped Infrastructures
+CORE_SECTORS = OSINT Threat Intelligence • Forensics • High-Density Data Protocols
+LOCATION     = Patna, Bihar, India
